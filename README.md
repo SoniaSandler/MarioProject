@@ -1,6 +1,7 @@
 # MarioProject
 To get the game, write/paste the following command in the Command Prompt of your computer
 `git clone https://github.com/SoniaSandler/MarioProject.git`
+
 To get to the game with Visual Studio:
   Click on the MarioProject.sln file
 
